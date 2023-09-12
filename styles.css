@@ -1,7 +1,7 @@
 @import url(styles/header.css);
 
 :root{
-    --cor-de-fundo: #F89CD9;
+    --cor-de-fundo: #EBECEE;
     --branco: #FFF;
     --amarelo: #fecd2f;
     --roxo: #C75EEB;      
@@ -18,4 +18,3 @@ body{
     background-color: var(--cor-de-fundo);    
     font-size: 16px;
     font-weight: 400;
-}
